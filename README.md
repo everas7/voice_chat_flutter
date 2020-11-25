@@ -1,16 +1,24 @@
-# voice_chat_flutter
+# Overview
 
-A new Flutter project.
+Voice Chat Flutter App
 
-## Getting Started
+[Based on this project](https://github.com/abuanwar072/Calling-Interface-Flutter/)
 
-This project is a starting point for a Flutter application.
+# Stack
+- Front-end: Flutter
 
-A few resources to get you started if this is your first Flutter project:
+# Anatomy
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Structure
+- components
+- screens
+    - components
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Running Project
+
+```
+flutter run
+```
+
+# Additional Notes
+TODO
