@@ -39,10 +39,29 @@ class Body extends StatelessWidget {
                   style: TextStyle(color: Colors.white60),
                 ),
                 Spacer(),
-                RoundedButton(
-                  icon: "assets/icons/call_end.svg",
-                  onPressed: () {},
-                )
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                  children: [
+                    RoundedButton(
+                      icon: "assets/icons/Icon Mic.svg",
+                      iconColor: Colors.black,
+                      color: Colors.white,
+                      onPressed: () {},
+                    ),
+                    RoundedButton(
+                      icon: "assets/icons/call_end.svg",
+                      iconColor: Colors.white,
+                      color: Constants.RED_COLOR,
+                      onPressed: () {},
+                    ),
+                    RoundedButton(
+                      icon: "assets/icons/Icon Volume.svg",
+                      iconColor: Colors.black,
+                      color: Colors.white,
+                      onPressed: () {},
+                    ),
+                  ],
+                ),
               ],
             ),
           ),
