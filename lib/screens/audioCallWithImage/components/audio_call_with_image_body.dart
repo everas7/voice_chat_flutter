@@ -5,7 +5,7 @@ import '../../../size_config.dart';
 import 'package:voice_chat_flutter/components/rounded_button.dart';
 import 'package:voice_chat_flutter/constants.dart' as Constants;
 
-class Body extends StatelessWidget {
+class AudioCallWithImageBody extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Stack(
