@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:voice_chat_flutter/size_config.dart';
-import 'package:voice_chat_flutter/screens/groupCall/components/user_calling_card.dart';
+import 'package:voice_chat_flutter/screens/group_call/components/user_calling_card.dart';
 import 'package:voice_chat_flutter/constants.dart' as Constants;
 
 class GroupCallBody extends StatelessWidget {
