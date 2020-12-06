@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
 import 'package:voice_chat_flutter/size_config.dart';
-import 'package:voice_chat_flutter/screens/dialScreen/components/dial_user_picture.dart';
-import 'package:voice_chat_flutter/screens/dialScreen/components/dial_button.dart';
+import 'package:voice_chat_flutter/components/dial_user_picture.dart';
+import 'package:voice_chat_flutter/components/dial_button.dart';
 import 'package:voice_chat_flutter/components/rounded_button.dart';
 import 'package:voice_chat_flutter/constants.dart' as Constants;
 
